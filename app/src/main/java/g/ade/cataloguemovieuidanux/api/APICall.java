@@ -11,9 +11,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
 
-/**
- * Created by omrobbie on 09/10/2017.
- */
 
 public interface APICall {
 
